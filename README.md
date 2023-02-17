@@ -41,7 +41,7 @@ Api is callable on /api/api.php and accept only GET parameters.
 Install apache/nginx and PHP on your machine, then depending on your OS, go to /srv/http OR /var/www/html
 
 ```bash
-git clone https://github.com/Anasi10/Monitoring
+git clone https://github.com/A-na-s/Monitoring
 cd Monitoring
 mv * ..
 cd .. && rm -r Monitoring
