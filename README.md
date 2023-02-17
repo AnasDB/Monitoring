@@ -4,13 +4,7 @@
 
 A simple monitoring API written in PHP called using Axios JS
 
-<br>
-
-![GitHub top language](https://img.shields.io/github/languages/top/Anasi10/Monitoring?style=for-the-badge)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Anasi10/Monitoring?style=for-the-badge)
-![repo size](https://img.shields.io/github/repo-size/Anasi10/Monitoring?style=for-the-badge)
-
-![image](https://user-images.githubusercontent.com/106782577/210119720-9e506e44-7a26-46b3-825e-d7d507aa8f57.png)
+![monitoring](https://user-images.githubusercontent.com/125673909/219788855-58c4539c-287a-401d-bdf6-d97f203e257f.png)
 
 
 </div>
