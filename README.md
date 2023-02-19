@@ -1,8 +1,14 @@
 <div align="center">
 
 # Monitoring
-
 A simple monitoring API written in PHP called using Axios JS
+
+<br/>
+
+![GitHub top language](https://img.shields.io/github/languages/top/AnasDB/Monitoring?style=for-the-badge)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/AnasDB/Monitoring?style=for-the-badge)
+![repo size](https://img.shields.io/github/repo-size/AnasDB/Monitoring?style=for-the-badge)
+
 
 ![monitoring](https://user-images.githubusercontent.com/125673909/219788855-58c4539c-287a-401d-bdf6-d97f203e257f.png)
 
@@ -41,7 +47,7 @@ Api is callable on /api/api.php and accept only GET parameters.
 Install apache/nginx and PHP on your machine, then depending on your OS, go to /srv/http OR /var/www/html
 
 ```bash
-git clone https://github.com/A-na-s/Monitoring
+git clone https://github.com/AnasDB/Monitoring
 cd Monitoring
 mv * ..
 cd .. && rm -r Monitoring
